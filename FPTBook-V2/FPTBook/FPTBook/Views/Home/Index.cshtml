@@ -1,0 +1,49 @@
+﻿
+
+@model IEnumerable<FPTBook.Models.Book>
+@{
+	ViewData["Title"] = "Home Page";
+}
+<div class="container">
+	<form action="" method="get" class="input-group">
+		<input type="search" class="form-control rounded" name="search" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+		<button type="submit" class="btn btn-outline-primary" data-mdb-ripple-init>search</button>
+	</form>
+	<section class=" mt-5 w-100">
+		<div class="row ">
+			<div class="" style="max-width:250px; ">
+
+				<ul style="display:grid; grid-template-columns:auto ;list-style:none; background-color:ThreeDDarkShadow; margin:0; padding:0; gap:4px;padding:10px; border-radius:15px">
+					@foreach (var item in ViewBag.Category)
+					{
+						<li class="category-item">
+							<a asp-area="" asp-controller="Home" asp-action="Index" style="width:100%;display:block" asp-route-id="@item.Id">@item.Name</a>
+						</li>
+					}
+				</ul>
+			</div>
+
+			@foreach (var item in Model)
+			{
+
+
+				<div class="col-lg-3 mb-4" style="border-radius:15px; padding:10px">
+					<div class="card">
+						<img decoding="async" src="@("~/Image/" + item.ImageName)" asp-append-version="true" class="card-img-top" style="padding:5px" alt="Book 1">
+						<div class="card-body">
+							<h5 class="card-title">@item.Title</h5>
+							<p class="card-text">@item.Description</p>
+							<p class="card-text">@item.Price</p>
+							<a asp-controller="Orders" asp-action="Checkout" asp-route-bookId="@item.Id" class="btn btn-primary">Check Out</a>
+						</div>
+
+					</div>
+				</div>
+			}
+		</div>
+		<!-- Repeat the above card structure for each book -->
+		<!-- Example for a second book -->
+	</section>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>

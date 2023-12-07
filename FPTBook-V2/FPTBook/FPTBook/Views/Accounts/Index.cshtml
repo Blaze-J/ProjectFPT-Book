@@ -1,0 +1,106 @@
+﻿@model IEnumerable<FPTBook.Models.RoleAndUserModel>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+
+
+<div class="" style="display:flex; flex-direction-row; gap:60px; margin: 0 0 0 0">
+	<partial name="_DashboardPartial" />
+	<div class="" style="">
+		<div style="margin-top:20px">
+			<div style="max-width:700px; display:flex;gap:4px;">
+				<form action="Accounts" method="get" class="" style="display:flex; width:100%;">
+					<input type="search" class="form-control rounded" name="search" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+					<button type="submit" class="btn btn-outline-primary" data-mdb-ripple-init>search</button>
+				</form>
+
+			</div>
+			<div style="display:flex; gap:20px; margin-top:20px">
+				<p>
+					<a class="btn btn-success" asp-action="Index">Refresh List</a>
+				</p>
+			</div>
+		</div>
+		<table class="table">
+			<thead>
+				<tr>
+					<th>
+						@Html.DisplayNameFor(model => model.user.First().Id )
+					</th>
+					<th>
+						@Html.DisplayNameFor(model => model.user.First().UserName )
+					</th>
+					<th>
+						@Html.DisplayNameFor(model => model.user.First().FullName)
+					</th>
+					<th>
+						@Html.DisplayNameFor(model => model.user.First().Email)
+					</th>
+					<th>
+						@Html.DisplayNameFor(model => model.user.First().EmailConfirmed)
+					</th>
+					<th>
+						@Html.DisplayNameFor(model => model.user.First().Home_Address)
+					</th>
+					<th>
+						@Html.DisplayNameFor(model => model.rolename)
+					</th>
+					@*  <th>
+					@Html.DisplayNameFor(model => model.ImageName)
+					</th>
+					<th>
+					@Html.DisplayNameFor(model => model.Category)
+					</th> *@
+					<th></th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var item in Model)
+				{
+					@foreach (var user in item.user)
+					{
+						<tr>
+							<td>
+								@Html.DisplayFor(modelItem => user.Id)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => user.UserName)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => user.FullName)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => user.Email)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => user.EmailConfirmed)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => user.Home_Address)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => item.rolename)
+							</td>
+							@*  <td>
+					<img decoding="async" src="@("~/Image/" + item.ImageName)" asp-append-version="true" alt="ImageBook" style="max-height:300px;max-width:300px" />
+					</td>
+					<td>
+					@Html.DisplayFor(modelItem => item.Category.Id)
+					</td> *@
+							<td>
+								<a asp-action="ChangePass" asp-route-id="@user.Id">Change Pass</a> |
+								<a asp-action="Details" asp-route-id="@user.Id">Details</a> |
+								<a asp-action="Delete" asp-route-id="@user.Id">Delete</a>
+							</td>
+						</tr>
+					}
+
+
+				}
+			</tbody>
+		</table>
+
+	</div>
+</div>
