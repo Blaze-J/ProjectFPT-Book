@@ -11500,11 +11500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GIGABYTE\\Desktop\\FPT_Book_Ful\\FPTBook-main\\FPTBook-main\\FPTBook\\FPTBook\\FPTBook.csproj",
+      "projectUniqueName": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V2\\FPTBook\\FPTBook\\FPTBook.csproj",
       "projectName": "FPTBook",
-      "projectPath": "C:\\Users\\GIGABYTE\\Desktop\\FPT_Book_Ful\\FPTBook-main\\FPTBook-main\\FPTBook\\FPTBook\\FPTBook.csproj",
+      "projectPath": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V2\\FPTBook\\FPTBook\\FPTBook.csproj",
       "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GIGABYTE\\Desktop\\FPT_Book_Ful\\FPTBook-main\\FPTBook-main\\FPTBook\\FPTBook\\obj\\",
+      "outputPath": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V2\\FPTBook\\FPTBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",

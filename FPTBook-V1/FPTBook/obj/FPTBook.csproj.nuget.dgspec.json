@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook\\FPTBook.csproj": {}
+    "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V1\\FPTBook\\FPTBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook\\FPTBook.csproj": {
+    "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V1\\FPTBook\\FPTBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook\\FPTBook.csproj",
+        "projectUniqueName": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V1\\FPTBook\\FPTBook.csproj",
         "projectName": "FPTBook",
-        "projectPath": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook\\FPTBook.csproj",
+        "projectPath": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V1\\FPTBook\\FPTBook.csproj",
         "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook\\obj\\",
+        "outputPath": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V1\\FPTBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",

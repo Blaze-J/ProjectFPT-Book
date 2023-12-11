@@ -1,0 +1,80 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using FPTBook.Models
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<ul class="navbar-nav  sidebar" style="min-width:300px;color:white;background-color:#0A2647;display:flex;text-align:center; gap:10px;min-height:100vh " id="accordionSidebar">
+
+	<!-- Sidebar - Brand -->
+	<a class="sidebar-brand d-flex align-items-center justify-content-center" style="text-decoration:none;">
+		<div class="sidebar-brand-icon rotate-n-15">
+			<i class="fas fa-laugh-wink"></i>
+		</div>
+		<div class="sidebar-brand-text mx-3" style="font-size:40px;  color:white">FPT Book</div>
+	</a>
+
+
+	@if (User.IsInRole("Administrator")){
+	<li class="nav-item" style="">
+		<a asp-controller="Categories" asp-action="Index" class="nav-link collapsed dashboardlink" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="text-decoration:none; color:white">
+			<i class="fas fa-fw fa-cog"></i>
+			Categories
+		</a>
+	</li>
+
+
+	<li class="nav-item" style="">
+		<a asp-controller="Books" asp-action="Index" class="nav-link collapsed dashboardlink" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="text-decoration:none; color:white">
+			<i class="fas fa-fw fa-cog"></i>
+			Books
+		</a>
+	</li>
+
+	<li class="nav-item" style="">
+		<a asp-controller="Accounts" asp-action="Index" class="nav-link collapsed dashboardlink" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="text-decoration:none; color:white">
+			<i class="fas fa-fw fa-cog"></i>
+			Accounts
+		</a>
+	</li>
+	<li class="nav-item" style="">
+		<a asp-controller="Publishers" asp-action="Index" class="nav-link collapsed dashboardlink" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="text-decoration:none; color:white">
+			<i class="fas fa-fw fa-cog"></i>
+			Publishers
+		</a>
+	</li>
+	<li class="nav-item" style="">
+		<a asp-controller="Orders" asp-action="Index" class="nav-link collapsed dashboardlink" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="text-decoration:none; color:white">
+			<i class="fas fa-fw fa-cog"></i>
+			Record 
+		</a>
+	</li>
+
+	}
+		@if (User.IsInRole("Store Owner"))
+		{
+		<li class="nav-item" style="">
+			<a asp-controller="Categories" asp-action="ListCategory" class="nav-link collapsed dashboardlink" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="text-decoration:none; color:white">
+				<i class="fas fa-fw fa-cog"></i>
+				Categories
+			</a>
+		</li>
+		<li class="nav-item" style="">
+			<a asp-controller="Books" asp-action="Index" class="nav-link collapsed dashboardlink" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="text-decoration:none; color:white">
+				<i class="fas fa-fw fa-cog"></i>
+				Books
+			</a>
+		</li>
+		<li class="nav-item" style="">
+			<a asp-controller="Orders" asp-action="RecordIndex" class="nav-link collapsed dashboardlink" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" style="text-decoration:none; color:white">
+				<i class="fas fa-fw fa-cog"></i>
+				Record
+			</a>
+		</li>
+		}
+		<!-- Heading -->
+	<!-- Nav Item - Pages Collapse Menu -->
+
+
+
+
+</ul>

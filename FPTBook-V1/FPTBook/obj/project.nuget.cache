@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "81sj9EwZLS3nLCnlSAEPX7lFdukv1YrQdP+WJN7Fn9hFNltmNgR4vHZrSCCkltdHF2unartvL8+6hhU6GnSrDw==",
+  "dgSpecHash": "/ArUyPpf5maedIuzyODwqQ797arvmpF/1QH1zEqwWDdHuAgKoEZBoqG1oygO3TqGhXF1hHK3T0cXCHQl9kGsgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook\\FPTBook.csproj",
+  "projectFilePath": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V1\\FPTBook\\FPTBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GIGABYTE\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\GIGABYTE\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
