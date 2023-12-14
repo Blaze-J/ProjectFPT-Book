@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FPTBook.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FPTBook.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\384539343_846360513697419_419528015401815480_n231038065.jpg",
+      "PackagePath": "staticwebassets\\Image\\384539343_846360513697419_419528015401815480_n231038065.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\384539343_846360513697419_419528015401815480_n234828087.jpg",
+      "PackagePath": "staticwebassets\\Image\\384539343_846360513697419_419528015401815480_n234828087.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\51OV+q4yBkS._AC_UF1000,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\Image\\51OV+q4yBkS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\618gXvIEizL._AC_UF1000,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\Image\\618gXvIEizL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\Doraemon1.jpg",
+      "PackagePath": "staticwebassets\\Image\\Doraemon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\Screenshot 2023-09-01 015835231215297.png",
+      "PackagePath": "staticwebassets\\Image\\Screenshot 2023-09-01 015835231215297.png"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\Screenshot 2023-11-04 182205231417273.png",
+      "PackagePath": "staticwebassets\\Image\\Screenshot 2023-11-04 182205231417273.png"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\So_dua_bia_truyen232409898.jpg",
+      "PackagePath": "staticwebassets\\Image\\So_dua_bia_truyen232409898.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\Toan 2230754131.jpg",
+      "PackagePath": "staticwebassets\\Image\\Toan 2230754131.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\bg_upload-removebg-preview230651484.png",
+      "PackagePath": "staticwebassets\\Image\\bg_upload-removebg-preview230651484.png"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\ma-captcha-la-gi-2234811235.jpg",
+      "PackagePath": "staticwebassets\\Image\\ma-captcha-la-gi-2234811235.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\noi-dung-sach-dac-nhan-tam-1280x720233250775.jpg",
+      "PackagePath": "staticwebassets\\Image\\noi-dung-sach-dac-nhan-tam-1280x720233250775.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\oo_ruby-16afdd1ea90f62931d9107a9126901912a86f5d7194b820aa1f050c94caa8aa7.png",
+      "PackagePath": "staticwebassets\\Image\\oo_ruby-16afdd1ea90f62931d9107a9126901912a86f5d7194b820aa1f050c94caa8aa7.png"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\tho_va_rua232442885.jpg",
+      "PackagePath": "staticwebassets\\Image\\tho_va_rua232442885.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\vite232325531.svg",
+      "PackagePath": "staticwebassets\\Image\\vite232325531.svg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\Image\\ăn khế trả vàng232256284.jpg",
+      "PackagePath": "staticwebassets\\Image\\ăn khế trả vàng232256284.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GIGABYTE\\Desktop\\FPTBook\\FPTBook-V5\\FPTBook\\FPTBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FPTBook.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FPTBook.props",
+      "PackagePath": "build\\FPTBook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FPTBook.props",
+      "PackagePath": "buildMultiTargeting\\FPTBook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FPTBook.props",
+      "PackagePath": "buildTransitive\\FPTBook.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
