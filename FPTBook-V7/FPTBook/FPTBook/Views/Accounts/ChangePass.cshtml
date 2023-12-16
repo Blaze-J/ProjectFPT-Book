@@ -1,0 +1,46 @@
+﻿@model FPTBook.Models.ChangePass
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="" style="display:flex; flex-direction-row; gap:60px; margin: 0 0 0 0">
+    <partial name="_DashboardPartial" />
+    <div class="" style="">
+        <h1>Change Pass</h1>
+
+        <hr />
+        <div class="row">
+            <div class="col">
+                <form asp-action="ChangePass">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="Id" />
+                    <div class="form-group">
+                        <label asp-for="NewPass" class="control-label"></label>
+                        <input asp-for="NewPass" class="form-control" />
+                        <span asp-validation-for="NewPass" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="ConfirmNewPass" class="control-label"></label>
+                        <input asp-for="ConfirmNewPass" class="form-control" />
+                        <span asp-validation-for="ConfirmNewPass" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
+     </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
