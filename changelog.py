@@ -7,3 +7,5 @@
  # Update FptBook V5 fix error when summit cart don't trigger DB and count amount book change money
 
  # Update FptBook V7 add button pageSize 
+
+ # Update FptBook V8 fix bug 

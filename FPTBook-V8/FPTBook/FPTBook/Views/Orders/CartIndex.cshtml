@@ -1,0 +1,75 @@
+﻿@model IEnumerable<FPTBook.Models.Cart>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<div class=" container" style="">
+	<h1>Cart</h1>
+
+	<p>
+		<a asp-action="CheckOutForm">Check Out</a>
+	</p>
+	<table class="table">
+		<thead>
+			<tr>
+
+				<th>
+					@Html.DisplayNameFor(model => model.CartItems.First().Book.Title)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.CartItems.First().Book.ImageName)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.CartItems.First().Book.Category)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.CartItems.First().quantity)
+				</th>
+				<th>
+					Total
+				</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				@foreach(var item1 in item.CartItems)
+				{
+					<tr>
+						<td>
+							@Html.DisplayFor(modelItem => item1.Book.Title)
+						</td>
+						<td>
+							<img decoding="async" src="@("~/Image/" + item1.Book.ImageName)" asp-append-version="true" alt="ImageBook" style="max-height:300px;max-width:300px" />
+				
+						</td>
+						<td>
+							
+							@Html.DisplayFor(modelItem => item1.Book.Category.Name)
+						</td>
+						<td>
+							<form action="ChangeQuantity" method="get">
+								<input type="number" class="form-control" style="max-width:100px" name="quantity" value="@item1.quantity" />
+								<input type="submit" class="btn btn-primary" value="Save" />
+								<input type="hidden"  name="Id" value="@item1.Id"/>
+							</form>
+							
+						</td>
+						<td>
+							@(item1.quantity *item1.Book.Price)
+						</td>
+						<td>
+							<a asp-action="DeleteCart" asp-route-id="@item1.Id">Delete</a>
+						</td>
+					</tr>
+				}
+				
+			}
+		</tbody>
+	</table>
+
+
+</div>
+
